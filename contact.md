@@ -7,7 +7,7 @@ Mahmoud ElGharably
 - Website: https://moudgry.github.io
 - Facebook: [profile.php?id=100081524696925](https://www.facebook.com/profile.php?id=100081524696925)
 - Twitter: [Mahmoud62651196](https://twitter.com/Mahmoud62651196)
-- Linkedin: [mahmoudelgharably](https://www.linkedin.com/in/mahmoudelgharably)
+- Linkedin: [moudgry](https://www.linkedin.com/in/moudgry)
 - Stackoverflow: [19274769/mahmoud-elgharably](https://stackoverflow.com/users/19274769/mahmoud-elgharably)
 - Github: [moudgry](https://github.com/moudgry)
 
